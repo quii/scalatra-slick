@@ -23,5 +23,5 @@ $ http http://localhost:8080/users
 
 ## Notes ##
 
-The interesting code more or less all lives in src/main/scala/com/quii/slickfun/MyScalatraServlet.scala
+The interesting code more or less all lives in [here](src/main/scala/com/quii/slickfun/MyScalatraServlet.scala)
 
